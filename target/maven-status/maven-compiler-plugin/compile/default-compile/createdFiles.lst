@@ -1,0 +1,9 @@
+com/login/repository/MemberRepository.class
+com/login/controller/TestController.class
+com/login/controller/MemberController.class
+com/login/controller/LoginController.class
+com/login/config/UserDetailsServiceImpl.class
+com/login/entity/Role.class
+com/login/Application.class
+com/login/config/SecurityConfig.class
+com/login/entity/Member.class
